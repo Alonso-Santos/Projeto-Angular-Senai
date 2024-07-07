@@ -1,3 +1,5 @@
+![ezgif com-animated-gif-maker](https://github.com/Alonso-Santos/Projeto-Angular-Senai/assets/161665596/4c8b0acf-6461-4ebb-a81e-74b755d092be)
+
 # LojaGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
